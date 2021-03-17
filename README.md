@@ -1,0 +1,2 @@
+# POINTER8
+AdreslerHakkindaKucukBirBilgi
